@@ -1,2 +1,3 @@
-# odoo8-public
-odoo8 modules shared for general availability to anyone 
+# Coop SANI odoo8-public
+
+Odoo v8 modules shared for the masses.
